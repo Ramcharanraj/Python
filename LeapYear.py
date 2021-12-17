@@ -1,3 +1,13 @@
+"""""
+*Author - Ram Chadran
+*Date 17-12-2021
+*Time - 12:00 AM
+*Title - Power Of Two
+
+"""""
+
+
+
 year = int(input("Enter the Year: "))
 if year%4==0:
     if year%100==0:
