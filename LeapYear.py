@@ -1,7 +1,7 @@
 """""
 *Author - Ram Chadran
 *Date 17-12-2021
-*Time - 12:00 AM
+*Time - 12:00 PM
 *Title - Power Of Two
 
 """""
