@@ -1,5 +1,5 @@
 """""
-*Author - Manish Singh
+*Author - Ram Chandarn
 *Date 17-12-2021
 *Time - 10:00 AM
 *Title - Flip Coin
