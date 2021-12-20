@@ -1,7 +1,8 @@
 """
 Date = '19/12/2021'
 Author = 'K.Ram Chandran'
-Description = ' A library for reading in 2D arrays of integers and printing them out to standard output. '
+Time - 10 AM
+Title = ' A library for reading in 2D arrays of integers printing them out to standard output. '
 
 """
 def PrintArray(Rows, Columns):
