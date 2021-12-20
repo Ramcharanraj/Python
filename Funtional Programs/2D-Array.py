@@ -2,7 +2,7 @@
 Date = '19/12/2021'
 Author = 'K.Ram Chandran'
 Time - 10 AM
-Title = ' 2D-Array '
+Title = ' 2D-Array Program '
 
 """
 def PrintArray(Rows, Columns):
