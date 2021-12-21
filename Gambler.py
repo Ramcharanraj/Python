@@ -4,6 +4,7 @@ Author : K.Ram Chandran
 Date : 21-12-2021
 Time : 12 AM
 Title : Gambler Simulator
+
 """
 
 import random
